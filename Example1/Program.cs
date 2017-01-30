@@ -8,6 +8,7 @@ namespace Example1
 {
     class Program
     {
+        //comment!
         static void Main(string[] args)
         {
         }
